@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cthorne87/u-develop-it#readme",
   "dependencies": {
+    "dotenv": "^15.0.0",
     "express": "^4.17.2",
     "mysql2": "^2.3.3"
   },
